@@ -599,7 +599,7 @@ a[class] {
         border-radius: 0.25rem;
     }
 }
-@media (min-width > 63.99875rem) {
+@media (width > 63.99875rem) {
     .hero__main {
         display: grid;
         grid-template-columns: 60% auto;
